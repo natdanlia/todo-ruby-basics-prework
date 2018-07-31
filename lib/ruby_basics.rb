@@ -15,7 +15,7 @@ def greeting(kocho,nibo)
 end
 
 def return_a_value
-
+  nice
 end
 
 def last_evaluated_value
