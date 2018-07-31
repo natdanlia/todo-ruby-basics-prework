@@ -6,8 +6,8 @@ def assign_variable(value)
   jam = value
 end
 
-def argue
-  
+def argue(jj)
+  jj
 end
 
 def greeting
