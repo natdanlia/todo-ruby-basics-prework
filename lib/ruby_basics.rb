@@ -10,7 +10,7 @@ def argue(jj)
   jj
 end
 
-def greeting
+def greeting(kocho,nibo)
 
 end
 
